@@ -1,6 +1,6 @@
 # GrowChat - Creative UI/UX website using React.js & Tailwind css + ui.c.
 
-![Discardo](repo-pic-link)
+![Discardo]([repo-pic-link](https://github.com/Ma7moudTiger/GrowChat/blob/main/src/imgs/Featured%20Card%201.png))
 
 ### Seed the conversation, watch friendships GROW 
 
