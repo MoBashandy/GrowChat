@@ -1,10 +1,10 @@
 import React from 'react';
-import About from './components/About'
+import Welcome from './components/Welcome'
 
 const App = () => {
   return (
     <>
-      <About/>
+      <Welcome/>
     </>
   );
 }
